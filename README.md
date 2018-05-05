@@ -2,7 +2,7 @@
 
 The R script, "run_analysis.R", does the following steps to create a final tidy data:
 
-1 Read data.
+1. Read data.
  - Read test data
  - Read features
  - Read activity labels
